@@ -1,8 +1,8 @@
 # Tic-Tac-Toe
 
-<p> run <code>pip3 install -r requirements.txt</code> to install the required Python package (pygame) for this project. </p>
+<p> Run <code>pip3 install -r requirements.txt</code> to install the required Python package (pygame) for this project. </p>
 
-<p> to play against your AI Run  <code> python runner.py </code> </p>
+<p> To play against your AI Run  <code> python runner.py </code> </p>
 
 
 
